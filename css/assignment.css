@@ -1,0 +1,86 @@
+.headerimg{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   /* margin-left :auto;
+   margin-right: auto; */
+
+}
+
+
+
+   .row{
+    display: flex ; 
+    flex-direction: row;
+    margin-left: 200px;
+    margin-top: 30px;
+
+   }
+
+   .test1{
+    border: 2px solid grey;
+    /* margin-right: 10px; */
+    margin-left: 50px;
+   
+   }
+
+   .test2{
+    border: 2px solid grey;
+    /* margin-right: 10px; */
+    margin-left: 200px;
+   }
+
+   .test3{
+    border: 2px solid grey;
+    margin-right: 10px;
+    margin-left: 200px;
+   }
+
+   .test4{
+    border: 2px solid grey;
+    margin-left: 200px;
+   }
+
+
+
+
+   .box{
+  display: flex;
+  flex-direction: row;
+   }
+
+   .card1{
+      border: 2px solid grey;
+      width: 200px;
+      height: 200px;
+      margin-left: 250px;
+     }
+
+     .card2{
+      border: 2px solid grey;
+      width: 200px;
+      height: 200px;
+      margin-left: 200px;
+     }
+     .card3{
+      border: 2px solid grey;
+      width: 200px;
+      height: 200px;
+      margin-left: 200px;
+     }
+     .card4{
+      border: 2px solid grey ;
+      width: 200px;
+      height: 200px;
+      margin-left: 210px;
+     }
+     .footer{
+      display: block;
+      padding-top: 20px;
+      margin-right: auto;
+      margin-left: auto;
+     }
+  
+  
+  
+  
